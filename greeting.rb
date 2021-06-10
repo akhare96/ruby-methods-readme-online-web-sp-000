@@ -10,6 +10,20 @@ greeting
 greeting
 greeting
 
-#hello_world_ten_times = puts out "Hello World" ten times
+#reverse_hello_ten = puts out "Hello" in reverse ten times
 
-def "hello World ten times"
+def reverse_hello_ten
+  phrase = "hello".reverse
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+end
+
+reverse_hello_ten
