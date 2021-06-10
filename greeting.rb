@@ -1,4 +1,4 @@
-# greeting = method that puts out "hello world"
+#greeting = puts out "hello world"
 
 def greeting 
   puts "Hello World"
