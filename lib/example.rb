@@ -14,3 +14,5 @@ def hello_world_ten_times
   puts phrase
   puts phrase
 end
+
+hello_world_ten_times
